@@ -1,0 +1,5 @@
+---
+title: ""
+---
+
+$partial("templates/post-list.html")$
